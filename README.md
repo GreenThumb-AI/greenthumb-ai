@@ -99,7 +99,7 @@ The project is in its initial development phase. We are currently:
 
 ## 🤝 Join Our Community
 
-- [Discord Server](YOUR_DISCORD_INVITE_LINK) - Join our active developer community
+- [Discord Server](https://discord.gg/4ZstYZjv) - Join our active developer community
 - [GitHub Discussions](https://github.com/GreenThumb-AI/greenthumb-ai/discussions) - For longer form conversations
 - [Issue Tracker](https://github.com/GreenThumb-AI/greenthumb-ai/issues) - Report bugs or request features
 
