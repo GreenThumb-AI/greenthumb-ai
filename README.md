@@ -6,7 +6,7 @@
 <div align="center">
 
 ![License](https://img.shields.io/github/license/GreenThumb-AI/greenthumb-ai)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289DA&label=Discord&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK)
+[![Discord](https://discord.gg/jcEYBGCgDb)]([(https://discord.gg/jcEYBGCgDb)])
 
 </div>
 
